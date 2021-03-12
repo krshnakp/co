@@ -1,3 +1,6 @@
 This is a test for branches in git
 Editing on Github
 Now to try and sync with my local copy...
+
+Git pull on local Git Bash
+
